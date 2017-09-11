@@ -17,5 +17,4 @@ else
 {
     bubbleShape = 'circle';
 }
-
 bounceBubbles();
